@@ -1,4 +1,4 @@
-name: game_market_app
+name: flutter_unit_testing
 description: A simple Flutter app for unit testing using MVVM pattern.
 
 environment:

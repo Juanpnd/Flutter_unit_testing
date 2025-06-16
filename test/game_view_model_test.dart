@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_market_app/models/game.dart';
-import 'package:game_market_app/viewmodels/game_view_model.dart';
+import 'package:flutter_unit_testing/models/game.dart';
+import 'package:flutter_unit_testing/viewmodels/game_view_model.dart';
 
 void main() {
   group('GameViewModel Test', () {
